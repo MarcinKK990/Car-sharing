@@ -22,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../WAR_FER_W_34_Zaawansowany_HTML_i_CSS-main" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,7 +33,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604825603588</updated>
-      <workItem from="1604825604682" duration="21664000" />
+      <workItem from="1604825604682" duration="25356000" />
+      <workItem from="1604916063521" duration="10764000" />
     </task>
     <servers />
   </component>
@@ -41,6 +42,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604913463782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604913463782" />
     <state x="393" y="43" key="RollbackChangesDialog" timestamp="1604840046863">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
