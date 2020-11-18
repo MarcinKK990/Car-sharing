@@ -262,7 +262,7 @@ p {
 .service {
     height: 643px;
     width: 100%;
-    background: blue;
+    background: #28272C;
 }
 
 .container-service {
@@ -270,31 +270,134 @@ p {
 }
 
 .maintitle {
-    height: 100px;
+    height: 182px;
     width: 100%;
     display: flex;
     justify-content: center;
-    background-color: pink;
+    align-items: center;
+    background-color: #28272C;
 
 
 }
+.belt1 {
+    height: 100%;
+    width: 60px;
+    background-color: #28272C;
+}
+
+.belt2 {
+    height: 100%;
+    width: 60px;
+    background-color: #28272C;
+}
+
+.title {
+    height: 100%;
+    width: 146px;
+    background-color: #28272C;
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+}
+
+.title > h2 {
+    font-size: 33px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
 
 .boxes {
-    height: 400px;
+    height: 536px;
     width: 100%;
-    background-color: #b3d4fc;
+    background-color: #28272C;
     display: flex;
     justify-content: space-evenly;
-
 
 }
 
 .box2 {
-    height: 340px;
-    width: 100px;
-    background-color: orange;
+    height: 361px;
+    width: 231px;
+    background-color: #28272C;
+
 }
 
+h2 {
+    margin: 11px;
+    font-size: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif
+    opacity: 1;
+
+}
+
+p {
+    color: #B2B2B2;;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    opacity: 1;
+    margin-top: 27px;
+
+}
+
+.photo1 {
+    height: 170px;
+    width: 170px;
+    background-image: url('../imgs/mini1.png');
+    margin: auto;
+
+}
+.photo2 {
+    height: 170px;
+    width: 170px;
+    background-image: url('../imgs/mini2.png');
+    margin: auto;
+
+}
+.photo3 {
+    height: 170px;
+    width: 170px;
+    background-image: url('../imgs/mini3.png');
+    margin: auto;
+
+}
+.photo4 {
+    height: 170px;
+    width: 170px;
+    background-image: url('../imgs/mini4.png');
+    margin: auto;
+
+}
+
+.words-service {
+    height: 136px;
+    width: 231px;
+}
+
+.btnn-service {
+    height: 40px;
+    width: 142px;
+    background-color: #28272C;
+    margin: auto;
+    color: white;
+
+
+}
+.btn-service {
+    height: 40px;
+    width: 142px;
+    background-color: red;
+    border-radius: 40px 40px 40px 40px;
+    margin: auto;
+    color: #FFFFFF;;
+    border: none;
+    font-family: 'Nunito Sans', sans-serif;
+    opacity: 1;
+}
 
 .contact {
     height: 400px;
@@ -304,6 +407,6 @@ p {
 
 footer {
     height: 100px;
-    width: 100%
+    width: 100%;
     background: orange;
 }
