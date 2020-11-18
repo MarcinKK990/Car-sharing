@@ -400,11 +400,52 @@ p {
 }
 
 .contact {
-    height: 400px;
+    height: 643px;
     width: 100%;
     background: grey;
+    display: flex;
+    align-items: center;
+
 }
 
+.container-contact {
+    height: 489px;
+    width: 904px;
+    background-color: #FF0000;
+    margin: auto;
+}
+
+.banner-contact {
+    height: 82px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    color: black;
+}
+
+
+
+.main-contact {
+    height: calc(100% - 82px);
+    width: 100%;
+    background-color: white;
+    display: flex;
+
+}
+.photo-contact {
+    height: calc(100% - 90px);
+    width: 100%;
+    background-color: orange;
+    background-image: url('../imgs/Form Photo.png');
+
+
+}
+.form {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+
+}
 footer {
     height: 100px;
     width: 100%;
