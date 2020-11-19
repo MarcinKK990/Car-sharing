@@ -190,12 +190,17 @@
 
 }
 
-.blog {
+.blogboxes {
     display: flex;
     justify-content: space-evenly;
     background: white;
     align-items: center;
     padding: 1px;
+
+
+}
+
+.blog {
 
 
 }
@@ -221,30 +226,86 @@
 
 }
 
-h2 {
+.words > h2 {
     text-align: center;
-    font-size: 19px;
     margin: auto;
+    margin-top: 10px;
+    font: normal normal normal 19px/26px Nunito Sans;
+    letter-spacing: 0px;
+    color: #6A6A6A;
+    opacity: 1;
 }
 
 p {
     text-align: center;
     word-break: break-all;
-
+    color: #6A6A6A;
+    opacity: 1;
 }
 .btnn {
     border: 3px solid tomato;
     color: white;
-    background: tomato;
-    border-radius: 50px;
     text-align: center;
+    background: #FF0000 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #FF00004D;
+    border-radius: 40px;
+    opacity: 1;
+    width: 142px;
+    height: 40px;
+    margin-top: 11px;
+
+
 
 
 
 
 }
 
+.btnn > h2 {
+    text-align: center;
+    font: normal normal bold 14px/19px Nunito Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
 
+.nav-blog {
+    height: 47px;
+    width: 215px;
+    background-color: #FFFFFF;
+    margin: auto;
+
+}
+
+.belt1-blog {
+    background-color: #FFFFFF;
+    width: 60px;
+    height: 100%;
+
+
+}
+
+.title-blog {
+    background-color: #FFFFFF;
+    height: 100%;
+    width: 95px;
+
+
+}
+
+.belt2-blog {
+    background-color: #FFFFFF;
+    width: 60px;
+    height: 100%;
+
+
+
+}
+
+.title-blog > h2 {
+    font-size: 15px;
+    color: black;
+}
 .picture2 {
     height: 50%;
     width: 100%;
